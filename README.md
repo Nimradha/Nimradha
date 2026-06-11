@@ -2,10 +2,11 @@
 
 ![Profile views](https://komarev.com/ghpvc/?username=Nimradha&color=blue)
 
-👋 ## About Me
+## 👋 About Me
 
 
-🎓 *I'm currently studying at **University of Moratuwa
+*🎓 I'm currently studying at* **University of Moratuwa**
+
 📫 Reach me at: nimradhanethmini2002@gmail.com
 <!--
 Here are some ideas to get you started:
