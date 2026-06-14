@@ -7,6 +7,10 @@
 
 *🎓 I'm currently studying at* **University of Moratuwa**
 
+*💻 Passionate about* **Full-Stack Development**
+
+📱 Mobile App Development | 🌐 Web Development | 📊 Data Science
+
 📫 Reach me at: nimradhanethmini2002@gmail.com
 
 ---
