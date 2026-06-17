@@ -31,10 +31,10 @@
 
 <p align="center">
   <!-- Row 2: Frontend & Tech Stack -->
-  <img src="https://skillicons.dev/icons?i=html,css,js,dart" alt="Frontend and DB" />
+  <img src="https://skillicons.dev/icons?i=html,css,js,java,c,dart" alt="Frontend and DB" />
 </p>
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=mongodb,mysql,firebase,deno,flutter,react" alt="Frontend and DB" />
+  <img src="https://skillicons.dev/icons?i=mongodb,mysql,firebase,nodejs,deno,flutter,react" alt="Frontend and DB" />
 </p>
 <!--
 Here are some ideas to get you started:
